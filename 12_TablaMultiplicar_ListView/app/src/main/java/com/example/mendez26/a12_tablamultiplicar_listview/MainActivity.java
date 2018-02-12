@@ -36,22 +36,24 @@ public class MainActivity extends AppCompatActivity {
 
         mostrarPorcentaje = (TextView)findViewById(R.id.txtCargar);
 
+        tablaMultiplicar(1);
         // SeekBar
         barra = (SeekBar)findViewById(R.id.seekBar);
         // Valor Inicial
         barra.setProgress(0);
         // Valot Final
-        barra.setMax(19);
+        barra.setMax(9);
         barra.setOnSeekBarChangeListener(
                 new SeekBar.OnSeekBarChangeListener() {
                     //hace un llamado a la perilla cuando se arrastra
                     @Override
-                    public void onProgressChanged(SeekBar seekBar,
-                                                  int progress, boolean fromUser) {
+                    public void onProgressChanged(SeekBar seekBar,int progress, boolean fromUser){
+
                         int cantidad = Integer.parseInt(String.valueOf(progress));
                         mostrarPorcentaje.setText((cantidad+1)+"");
                         tablaMultiplicar(cantidad+1);
-                    }
+
+                    }//onProgressChanged
 
                     //hace un llamado  cuando se toca la perilla
                     public void onStartTrackingTouch(SeekBar seekBar) {
