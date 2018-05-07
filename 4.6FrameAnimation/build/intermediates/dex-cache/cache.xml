@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/mendez26/.android/build-cache/b25d054de0060f961962838aafc270b771ca7ae3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_690726adab2c9043398720054c4ef7d7d72deb4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mendez26/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_e5f504984e49c53945470a5c606dce8363d299aa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mendez26/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_e5f504984e49c53945470a5c606dce8363d299aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d49361322e308da332a084396d50f415546fa141">
+        <dex dex="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3957add9b594bee80d197eda7e82ee8cab96181b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mendez26/.android/build-cache/e7fe5d2b951015092e027cfff9a028970cfed731/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4449b0dfb4d2175cd2e97c1dcb2f301edf0e4f0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mendez26/.android/build-cache/6031c76c1d04c5ba936eac01fbd2b4c83c281567/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/pre-dexed/debug/classes_7f5b77b95817874e023ad925b4698b306fc06bc6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mendez26/.android/build-cache/01cf62b13029ed500f0f6edd9b083fd4101c60bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e8b13ae4fc20677693c440a6040f98435989a8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mendez26/.android/build-cache/e7fe5d2b951015092e027cfff9a028970cfed731/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/pre-dexed/debug/classes_4449b0dfb4d2175cd2e97c1dcb2f301edf0e4f0f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mendez26/.android/build-cache/6031c76c1d04c5ba936eac01fbd2b4c83c281567/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f5b77b95817874e023ad925b4698b306fc06bc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mendez26/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_f302a45a68db5c8175d1276267a1fdc4351bb4a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mendez26/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_f302a45a68db5c8175d1276267a1fdc4351bb4a4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_63e17f6996f08b985ce1607585057386637adbed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mendez26/.android/build-cache/e62272311eb44dbc8d4d24e04ecc8894962420bf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_129f2b1431c9509c9688790f611839213bb51494/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mendez26/.android/build-cache/e62272311eb44dbc8d4d24e04ecc8894962420bf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/pre-dexed/debug/classes_129f2b1431c9509c9688790f611839213bb51494.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mendez26/.android/build-cache/2accae8939beaf77888bf260e377c7b74c603221/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4aed96d1c34796ad17b025feed1234274e866929/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mendez26/.android/build-cache/2accae8939beaf77888bf260e377c7b74c603221/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/pre-dexed/debug/classes_4aed96d1c34796ad17b025feed1234274e866929.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mendez26/.android/build-cache/e16690c48ebb31ec1cca89795929304bc1105a38/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f43c1cf8b6d95689a23a54db041c4b513579f86/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mendez26/.android/build-cache/01cf62b13029ed500f0f6edd9b083fd4101c60bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/pre-dexed/debug/classes_0e8b13ae4fc20677693c440a6040f98435989a8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mendez26/.android/build-cache/4972c5a1e1d71dc8ecc1243f87c1f529ef575ddf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/pre-dexed/debug/classes_f3e2a193b180a07633d2b401f2db8854885d65b6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mendez26/.android/build-cache/4972c5a1e1d71dc8ecc1243f87c1f529ef575ddf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f3e2a193b180a07633d2b401f2db8854885d65b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mendez26/.android/build-cache/2e61e99e98dc18f74651427b5f683e05e62f7d35/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_276693ccf7ae937bfd32202b7dc679c01166c3b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mendez26/.android/build-cache/1dd810d1a39d9cbedc5ad842ce6c3ade056f55e5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb6df63d84c05f3ae29977e8e5fc0a9e610f3770/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mendez26/.android/build-cache/e16690c48ebb31ec1cca89795929304bc1105a38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/pre-dexed/debug/classes_6f43c1cf8b6d95689a23a54db041c4b513579f86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mendez26/.android/build-cache/b25d054de0060f961962838aafc270b771ca7ae3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/pre-dexed/debug/classes_690726adab2c9043398720054c4ef7d7d72deb4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mendez26/.android/build-cache/1dd810d1a39d9cbedc5ad842ce6c3ade056f55e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/pre-dexed/debug/classes_cb6df63d84c05f3ae29977e8e5fc0a9e610f3770.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mendez26/.android/build-cache/2e61e99e98dc18f74651427b5f683e05e62f7d35/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/pre-dexed/debug/classes_276693ccf7ae937bfd32202b7dc679c01166c3b9.jar" />
+    </item>
+
+</items>

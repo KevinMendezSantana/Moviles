@@ -1,0 +1,4 @@
+#Thu May 03 08:56:23 MDT 2018
+base.0=/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex

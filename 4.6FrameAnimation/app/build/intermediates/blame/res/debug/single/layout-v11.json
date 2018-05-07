@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/mendez26/.android/build-cache/1dd810d1a39d9cbedc5ad842ce6c3ade056f55e5/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/mendez26/.android/build-cache/1dd810d1a39d9cbedc5ad842ce6c3ade056f55e5/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/mendez26/.android/build-cache/1dd810d1a39d9cbedc5ad842ce6c3ade056f55e5/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/mendez26/.android/build-cache/1dd810d1a39d9cbedc5ad842ce6c3ade056f55e5/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/mendez26/.android/build-cache/1dd810d1a39d9cbedc5ad842ce6c3ade056f55e5/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/mendez26/.android/build-cache/1dd810d1a39d9cbedc5ad842ce6c3ade056f55e5/output/res/layout-v11/notification_media_cancel_action.xml"
+    }
+]

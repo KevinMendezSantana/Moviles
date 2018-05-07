@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/mendez26/.android/build-cache/1dd810d1a39d9cbedc5ad842ce6c3ade056f55e5/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/mendez26/.android/build-cache/1dd810d1a39d9cbedc5ad842ce6c3ade056f55e5/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/mendez26/.android/build-cache/1dd810d1a39d9cbedc5ad842ce6c3ade056f55e5/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/mendez26/.android/build-cache/1dd810d1a39d9cbedc5ad842ce6c3ade056f55e5/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml:3:5-55
+		INJECTED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/mendez26/.android/build-cache/1dd810d1a39d9cbedc5ad842ce6c3ade056f55e5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/mendez26/.android/build-cache/01cf62b13029ed500f0f6edd9b083fd4101c60bb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/mendez26/.android/build-cache/6031c76c1d04c5ba936eac01fbd2b4c83c281567/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/mendez26/.android/build-cache/2e61e99e98dc18f74651427b5f683e05e62f7d35/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/mendez26/.android/build-cache/e62272311eb44dbc8d4d24e04ecc8894962420bf/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/mendez26/.android/build-cache/2accae8939beaf77888bf260e377c7b74c603221/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/mendez26/.android/build-cache/b25d054de0060f961962838aafc270b771ca7ae3/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/mendez26/.android/build-cache/e7fe5d2b951015092e027cfff9a028970cfed731/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/mendez26/.android/build-cache/4972c5a1e1d71dc8ecc1243f87c1f529ef575ddf/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/mendez26/.android/build-cache/e16690c48ebb31ec1cca89795929304bc1105a38/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.anasanchez.a46frameanimation.MainActivity
+ADDED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/mendez26/.android/build-cache/1dd810d1a39d9cbedc5ad842ce6c3ade056f55e5/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/mendez26/.android/build-cache/01cf62b13029ed500f0f6edd9b083fd4101c60bb/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/mendez26/.android/build-cache/6031c76c1d04c5ba936eac01fbd2b4c83c281567/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/mendez26/.android/build-cache/2e61e99e98dc18f74651427b5f683e05e62f7d35/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/mendez26/.android/build-cache/e62272311eb44dbc8d4d24e04ecc8894962420bf/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/mendez26/.android/build-cache/2accae8939beaf77888bf260e377c7b74c603221/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/mendez26/.android/build-cache/b25d054de0060f961962838aafc270b771ca7ae3/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/mendez26/.android/build-cache/e7fe5d2b951015092e027cfff9a028970cfed731/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/mendez26/.android/build-cache/4972c5a1e1d71dc8ecc1243f87c1f529ef575ddf/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/mendez26/.android/build-cache/e16690c48ebb31ec1cca89795929304bc1105a38/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/mendez26/.android/build-cache/1dd810d1a39d9cbedc5ad842ce6c3ade056f55e5/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mendez26/AndroidStudioProjects/4.6FrameAnimation/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/mendez26/.android/build-cache/1dd810d1a39d9cbedc5ad842ce6c3ade056f55e5/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/mendez26/.android/build-cache/01cf62b13029ed500f0f6edd9b083fd4101c60bb/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/mendez26/.android/build-cache/6031c76c1d04c5ba936eac01fbd2b4c83c281567/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/mendez26/.android/build-cache/2e61e99e98dc18f74651427b5f683e05e62f7d35/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/mendez26/.android/build-cache/e62272311eb44dbc8d4d24e04ecc8894962420bf/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/mendez26/.android/build-cache/2accae8939beaf77888bf260e377c7b74c603221/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/mendez26/.android/build-cache/b25d054de0060f961962838aafc270b771ca7ae3/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/mendez26/.android/build-cache/e7fe5d2b951015092e027cfff9a028970cfed731/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/mendez26/.android/build-cache/4972c5a1e1d71dc8ecc1243f87c1f529ef575ddf/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/mendez26/.android/build-cache/1dd810d1a39d9cbedc5ad842ce6c3ade056f55e5/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/mendez26/.android/build-cache/1dd810d1a39d9cbedc5ad842ce6c3ade056f55e5/output/AndroidManifest.xml:26:9-47
