@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "830542075871",
+    "firebase_url": "https://calllog-master.firebaseio.com",
+    "project_id": "calllog-master",
+    "storage_bucket": "calllog-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830542075871:android:dce61e989d41b743",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.callprovider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830542075871-d9drktem3qtnpuhg3aqpktb2cd1urb8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.callprovider",
+            "certificate_hash": "7b65e91f27ac63011e923fc4fe73bd4bc14c8447"
+          }
+        },
+        {
+          "client_id": "830542075871-55gjr33vs1mnhgtt8fttngj71pvegqg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfEArGi7rwxnvPgIcmk0yO-Wsgdduh6bk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830542075871-55gjr33vs1mnhgtt8fttngj71pvegqg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
